@@ -1,0 +1,33 @@
+title {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  text-decoration: underline;
+  margin: 2em 0 0 0;
+}
+
+table {
+  margin: 40px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+table tr td {
+  border: 2px solid hsl(280, 80%, 30%);
+  font-family: Helvetic, Arial, sans-serif;
+  padding: 0.3em;
+}
+
+.heading {
+  font-weight: bold;
+  background-color: hsl(260, 100%, 80%);
+}
+
+.tag {
+  color: hsl(350, 85%, 40%);
+  border-color: hsl(280, 80%, 30%);
+  font-family: monospace, Arial, sans-serif;
+}
+
+.tag span {
+  color: black;
+}
